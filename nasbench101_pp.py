@@ -1,6 +1,3 @@
-'''
-This is for Table 1. And figure 4.
-'''
 import numpy as np
 
 import exp
