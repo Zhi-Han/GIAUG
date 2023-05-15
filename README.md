@@ -17,11 +17,11 @@ The codes have been tested on Python 3.6.
 
 ### NAS-Bench-101
 1. Download the [NAS-Bench-101 dataset](https://storage.googleapis.com/nasbench/nasbench_only108.tfrecord) and put in the `data` directory in the root folder of this project.
-2. Run `python nasbench101_pp.py` to get the ktau of the various performance predictor using training data with different proportions.
+2. Run `python nasbench101_pp.py` to get the ktau of various performance predictors using training data with different proportions.
 
 ### NAS-Bench-201
 1. Download the [NAS-Bench-201 dataset](https://drive.google.com/file/d/16Y0UwGisiouVRxW-W5hEtbxmcHw_0hF_/view?usp=sharing) and put in the `data` directory in the root folder of this project.
-2. Run `python nasbench201_pp.py` to get the ktau of the various performance predictor using training data with different proportions.
+2. Run `python nasbench201_pp.py` to get the ktau of various performance predictors using training data with different proportions.
 
 
 
